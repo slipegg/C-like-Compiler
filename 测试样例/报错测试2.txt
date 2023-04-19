@@ -1,0 +1,7 @@
+int fun()
+{
+int i;
+int j=20;
+i=j+k;
+    return;
+}
